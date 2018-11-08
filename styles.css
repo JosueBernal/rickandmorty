@@ -1,0 +1,34 @@
+/* *{
+  border: 1px solid;
+  color; blue;
+} */
+body{
+  background-color: #63978E;
+}
+
+h1{
+  text-align: center;
+  font-family: fantasy;
+  font-size: 90px;
+  color: white;
+}
+
+h2 {
+  text-align: center;
+}
+
+.list{
+  margin: 15px;
+}
+
+.character {
+  background-color: #1F3843;
+  font-family: fantasy;
+  display: inline-block;
+  margin: 10px;
+  color: white;
+}
+
+.character p{
+  text-align: center;
+}
